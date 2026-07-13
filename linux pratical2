@@ -1,0 +1,31 @@
+    1  ssh -keygen
+    2  ssh-keygen
+    3  cd / root/.ssh
+    4  cd /root/.ssh
+    5  ls
+    6  cat id_ed25519.pub
+    7  cd /tmp/
+    8  ls
+    9  mkdir arun
+   10  cd arun
+   11  cd arun/
+   12  ls
+   13  touch 123
+   14  ls
+   15  mv 123 abc
+   16  ls
+   17  cp abc ajay
+   18  ls
+   19  rm ajay
+   20  ls
+   21  mkdir folder
+   22  ls
+   23  rm folder
+   24  rm -rfolder
+   25  rm -rf folder
+   26  ls
+   27  echo "welcom"
+   28  whoami
+   29  w
+   30  who
+   31  history
