@@ -29,3 +29,26 @@
    29  w
    30  who
    31  history
+   32  ps
+   33  ps -ef
+   34  top 
+   35  ps -ef | grep jdb2
+   36  apt get update
+   37  apt-get update
+   38  apt install nginx
+   39  ps -ef | grep nginx
+   40  top
+   41  more
+   42  wget
+   43  uptime
+   44  free
+   45  top
+   46  htop
+   47  uptime
+   48  ps
+   49  top
+   50  free
+   51  free -h
+   52  df -h
+   53  du
+   54  history
