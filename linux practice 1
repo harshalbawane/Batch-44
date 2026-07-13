@@ -45,3 +45,4 @@ root@harshalfirstinstance:/var/log/harshal# curl ifconfig.me
    38  hostname -i
    39  curl ifconfig.me
    40  history
+41 main history
