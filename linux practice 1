@@ -1,0 +1,47 @@
+
+root@harshalfirstinstance:/var/log/harshal# hostname
+harshalfirstinstance
+root@harshalfirstinstance:/var/log/harshal# hostname -i
+10.160.0.2
+root@harshalfirstinstance:/var/log/harshal# curl ifconfig.me
+35.200.157.168root@harshalfirstinstance:/var/log/harshal# history
+    1  cd/
+    2  cd /
+    3  ls
+    4  pwd
+    5  cd ~
+    6  PWD
+    7  pwd
+    8  cd /
+    9  ls
+   10  df -h
+   11  cd / var
+   12  cd /var
+   13  ls
+   14  cd /var /log
+   15  cd /var/log
+   16  ls
+   17  cat auth.log
+   18  more auth.log
+   19  tail -20f auth.log
+   20  tail -20 auth.log
+   21  history
+   22  cat auth.log /grep error
+   23  cat auth.log | grep error
+   24  cat auth.log | grep fail
+   25  cat auth.log | grep failed
+   26  ls
+   27  mkdir harshal
+   28  ls
+   29  cd /harshal
+   30  cd /var/harshal
+   31  cd /var/log/harshal
+   32  touch file
+   33  ls
+   34  cat file
+   35  vi file
+   36  cat file
+   37  hostname
+   38  hostname -i
+   39  curl ifconfig.me
+   40  history
